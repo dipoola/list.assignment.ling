@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace running
+{
+    class Class1
+    {
+        
+            //var today = DateTime.Today;
+            // Console.WriteLine(today);
+            // Console.ReadLine();
+
+            //int[] arraynum = { 1, 5, 8, 9, 0, 7 };
+            //var filter = from hub in arraynum
+            //             where hub % 2 == 0
+            //             select hub;
+            //foreach (var nupat in filter)
+            //{
+            //    Console.WriteLine($"the only number in the arraynum divisible by 2 & equals 0 is {nupat}");
+            //    Console.ReadLine();
+
+            //}
+
+
+            //string[] arrayName = { "sho la", "kasali", "patrick", "di por","olugbokiki", "ca tamara" };
+            //var arrayString = from hub in arrayName
+            //                  where hub.Contains(" ")
+            //                  select hub;
+            //      foreach(var lagos in arrayString)
+            //{
+            //    Console.WriteLine(lagos);
+            //    Console.ReadLine();
+            //}
+
+
+            List<string> book = new List <string>();
+
+    }
+}
